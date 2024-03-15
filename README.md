@@ -1,7 +1,3 @@
-Here's the README.md file for the provided Python script:
-
----
-
 # Runpod AI API Integration
 
 This Python script demonstrates how to integrate with the Runpod AI API to generate images based on user prompts and negative prompts.
